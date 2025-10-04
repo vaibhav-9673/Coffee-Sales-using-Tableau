@@ -19,47 +19,47 @@ The specific areas of concern include:
 The goal of this project is to analyze these key areas to uncover the main drivers of sales, identify patterns, and highlight opportunities for improvement to enhance business performance
 
 ## 🛠️ Tools Used
-Excel: For initial data cleaning, preparation, and basic analysis of coffee sales data.
-Tableau: For creating interactive dashboards, visualizing sales trends, analyzing performance by product, store, and time, and enabling data-driven insights.
+<br>Excel: For initial data cleaning, preparation, and basic analysis of coffee sales data.
+<br>Tableau: For creating interactive dashboards, visualizing sales trends, analyzing performance by product, store, and time, and enabling data-driven insights.
 
 ## 🧹 Data Cleaning and Analysis
 Data cleaning was initially performed in Excel and further transformed using Tableau to ensure data integrity, consistency, and accuracy for visualization and analysis.
 #### a) Excel:
-1. Changing Data Types: Ensured numeric columns (e.g., sales amount, quantity sold, order ID) had appropriate numeric formats.
-2. Replacing Null Values: Filled missing numeric data with mean or median values where applicable.
-3. Formatting Cells: Standardized number formats with consistent decimal places.
-4. Handling Missing Values: Used Excel functions to fill or remove missing data.
-5. Categorizing Products and Locations: Maintained consistent labeling for product names and store locations.
-6. Standardizing Date Formats: Converted date columns to a uniform format for accurate time-based analysis.
+<br>1. Changing Data Types: Ensured numeric columns (e.g., sales amount, quantity sold, order ID) had appropriate numeric formats.
+<br>2. Replacing Null Values: Filled missing numeric data with mean or median values where applicable.
+<br>3. Formatting Cells: Standardized number formats with consistent decimal places.
+<br>4. Handling Missing Values: Used Excel functions to fill or remove missing data.
+<br>5. Categorizing Products and Locations: Maintained consistent labeling for product names and store locations.
+<br>6. Standardizing Date Formats: Converted date columns to a uniform format for accurate time-based analysis.
 
-#### b)Tableau:
-1. Data Modeling: Created a date table and linked it with the transaction table via the date column to enable time-based filtering and analysis.
-2. Conditional Formatting: Highlighted key data points and trends in the visualizations for quick insights.
-3. Data Validation: Implemented rules to ensure data quality and accuracy.
-4. Data Transformation: Used Tableau Editor to remove duplicates, filter rows, and transform data types for consistent analysis.
+<br>#### b)Tableau:
+<br>1. Data Modeling: Created a date table and linked it with the transaction table via the date column to enable time-based filtering and analysis.
+<br>2. Conditional Formatting: Highlighted key data points and trends in the visualizations for quick insights.
+<br>3. Data Validation: Implemented rules to ensure data quality and accuracy.
+<br>4. Data Transformation: Used Tableau Editor to remove duplicates, filter rows, and transform data types for consistent analysis.
 
 ## Visualization Used in Tableau
-Total Sales Analysis: Card and line chart to visualize total sales over different time periods.
-Total Order Analysis: Card and line chart to show the number of orders over different time periods.
-Total Quantity Sold Analysis: Card and line chart to display the total quantity of products sold.
-Sales Analysis by Weekdays and Weekends: pie chart to compare sales on weekdays versus weekends.
-Sales Analysis by Store Location: Bar chart to show sales performance by location.
-Daily Sales with Average Line: Column chart with an average line to show daily sales trends.
-Sales Analysis by Product Category: Bar chart to display sales distribution across different product categories.
-Top 10 Products by Sales: Bar charts to highlight the top 10 products based on sales.
-Sales Analysis by Days and Hours: Matrix chart to analyze sales performance across different days and hours.
-Calendar map for monthly and daywise: Matrix chart used to filter analysis based on month and day.
-Tooltip in calender map and days & hours chart Implemented tooltip for the calendar map and matrix chart to display detailed information when hovering over each day and hour for analysis.
+<br>1. Total Sales Analysis: Card and line chart to visualize total sales over different time periods.
+<br>2. Total Order Analysis: Card and line chart to show the number of orders over different time periods.
+<br>3. Total Quantity Sold Analysis: Card and line chart to display the total quantity of products sold.
+<br>4. Sales Analysis by Weekdays and Weekends: pie chart to compare sales on weekdays versus weekends.
+<br>5. Sales Analysis by Store Location: Bar chart to show sales performance by location.
+<br>6. Daily Sales with Average Line: Column chart with an average line to show daily sales trends.
+<br>7. Sales Analysis by Product Category: Bar chart to display sales distribution across different product categories.
+<br>8. Top 10 Products by Sales: Bar charts to highlight the top 10 products based on sales.
+<br>9.Sales Analysis by Days and Hours: Matrix chart to analyze sales performance across different days and hours.
+<br>10. Calendar map for monthly and daywise: Matrix chart used to filter analysis based on month and day.
+
 
 ## 💡 Recommendations
-Based on the analysis of coffee sales data, the following recommendations can help improve business performance and drive sales growth:
-Focus on Top-Selling Products: Increase inventory and marketing efforts for the top 10 best-selling products to maximize revenue.
-Optimize Store Operations by Location: Allocate resources and staff based on sales performance of each store location to improve efficiency.
-Target Weekend and Peak Hours: Implement promotions or special offers during high-traffic periods identified through sales by day and hour analysis.
-Customer Segmentation & Personalization: Use insights from product and purchase trends to target marketing campaigns toward loyal or high-value customers.
-Monitor Daily Sales Trends: Use dashboards with trendlines and average sales indicators to track daily performance and quickly respond to anomalies.
-Product & Menu Optimization: Evaluate low-performing products and consider discontinuation, bundling, or promotional strategies to boost sales.
-Continuous Data Monitoring: Regularly update dashboards and perform data analysis to detect shifts in customer behavior and adjust strategies accordingly.
+<br>Based on the analysis of coffee sales data, the following recommendations can help improve business performance and drive sales growth:
+<br>1. Focus on Top-Selling Products: Increase inventory and marketing efforts for the top 10 best-selling products to maximize revenue.
+<br>2. Optimize Store Operations by Location: Allocate resources and staff based on sales performance of each store location to improve efficiency.
+<br>3. Target Weekend and Peak Hours: Implement promotions or special offers during high-traffic periods identified through sales by day and hour analysis.
+<br>4. Customer Segmentation & Personalization: Use insights from product and purchase trends to target marketing campaigns toward loyal or high-value customers.
+<br>5. Monitor Daily Sales Trends: Use dashboards with trendlines and average sales indicators to track daily performance and quickly respond to anomalies.
+<br>6. Product & Menu Optimization: Evaluate low-performing products and consider discontinuation, bundling, or promotional strategies to boost sales.
+<br>7. Continuous Data Monitoring: Regularly update dashboards and perform data analysis to detect shifts in customer behavior and adjust strategies accordingly.
 
 ## 🏁 Conclusion
 The Coffee Sales Data Analysis project provides actionable insights into sales performance, customer behavior, and product trends across different locations and time periods. By leveraging Excel for data cleaning and Tableau for visualization, the dashboard highlights key drivers of revenue, identifies top-performing products, and uncovers opportunities for improvement. This analysis equips business managers with the tools to make data-driven decisions, optimize inventory and staffing, enhance marketing strategies, and ultimately increase overall sales and customer satisfaction.
