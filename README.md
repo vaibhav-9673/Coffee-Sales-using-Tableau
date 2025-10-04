@@ -19,13 +19,13 @@ The specific areas of concern include:
 The goal of this project is to analyze these key areas to uncover the main drivers of sales, identify patterns, and highlight opportunities for improvement to enhance business performance
 
 ## 🛠️ Tools Used
-<br>a) **Excel**: For initial data cleaning, preparation, and basic analysis of coffee sales data.
-<br>b) **Tableau**: For creating interactive dashboards, visualizing sales trends, analyzing performance by product, store, and time, and enabling data-driven insights.
+<br> **a) Excel**: For initial data cleaning, preparation, and basic analysis of coffee sales data.
+<br> **b) Tableau**: For creating interactive dashboards, visualizing sales trends, analyzing performance by product, store, and time, and enabling data-driven insights.
 
 ## 🧹 Data Cleaning and Analysis
 Data cleaning was initially performed in Excel and further transformed using Tableau to ensure data integrity, consistency, and accuracy for visualization and analysis.
 #### a) Excel:
-<br>1. Changing Data Types: Ensured numeric columns (e.g., sales amount, quantity sold, order ID) had appropriate numeric formats.
+1. Changing Data Types: Ensured numeric columns (e.g., sales amount, quantity sold, order ID) had appropriate numeric formats.
 <br>2. Replacing Null Values: Filled missing numeric data with mean or median values where applicable.
 <br>3. Formatting Cells: Standardized number formats with consistent decimal places.
 <br>4. Handling Missing Values: Used Excel functions to fill or remove missing data.
