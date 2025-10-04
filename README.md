@@ -26,7 +26,7 @@ The goal of this project is to analyze these key areas to uncover the main drive
 Data cleaning was initially performed in Excel and further transformed using Tableau to ensure data integrity, consistency, and accuracy for visualization and analysis.
 #### a) Excel:
 1. Changing Data Types: Ensured numeric columns (e.g., sales amount, quantity sold, order ID) had appropriate numeric formats.
-<br>2. Replacing Null Values: Filled missing numeric data with mean or median values where applicable.
+2. 2. Replacing Null Values: Filled missing numeric data with mean or median values where applicable.
 <br>3. Formatting Cells: Standardized number formats with consistent decimal places.
 <br>4. Handling Missing Values: Used Excel functions to fill or remove missing data.
 <br>5. Categorizing Products and Locations: Maintained consistent labeling for product names and store locations.
