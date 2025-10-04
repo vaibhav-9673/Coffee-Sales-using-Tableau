@@ -2,7 +2,8 @@
 ## ☕ Project Overview
 The Coffee Sales Data Analysis project focuses on exploring and visualizing coffee sales data to uncover meaningful business insights. The main goal is to help decision-makers understand sales performance, customer behavior, and product demand across different regions and time periods. Through interactive dashboards, this analysis highlights key trends such as top-selling products, monthly revenue growth, and regional performance. It enables businesses to make informed decisions related to marketing strategies, inventory planning, and customer targeting.
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/f71dea2c-41c6-4652-a6bd-bd4a47dc9d1f" />
+<img width="794" height="400" alt="image" src="https://github.com/user-attachments/assets/f83f2abf-8aa2-49d3-97d1-3a01f5c3fa5b" />
+
 
 
 ## ☕ Problem Statement
@@ -33,10 +34,10 @@ Data cleaning was initially performed in Excel and further transformed using Tab
 6. Standardizing Date Formats: Converted date columns to a uniform format for accurate time-based analysis.
 
 #### <br>b) Tableau:
-<br>1. Data Modeling: Created a date table and linked it with the transaction table via the date column to enable time-based filtering and analysis.
-<br>2. Conditional Formatting: Highlighted key data points and trends in the visualizations for quick insights.
-<br>3. Data Validation: Implemented rules to ensure data quality and accuracy.
-<br>4. Data Transformation: Used Tableau Editor to remove duplicates, filter rows, and transform data types for consistent analysis.
+1. Data Modeling: Created a date table and linked it with the transaction table via the date column to enable time-based filtering and analysis.
+2. Conditional Formatting: Highlighted key data points and trends in the visualizations for quick insights.
+3. Data Validation: Implemented rules to ensure data quality and accuracy.
+4. Data Transformation: Used Tableau Editor to remove duplicates, filter rows, and transform data types for consistent analysis.
 
 ## Visualization Used in Tableau
 <br>1. Total Sales Analysis: Card and line chart to visualize total sales over different time periods.
